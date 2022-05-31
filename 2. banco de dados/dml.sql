@@ -44,7 +44,6 @@ UPDATE tb_filme
 
 
 
-
 -- CSU04:: remover filme
 DELETE FROM tb_filme 
       WHERE id_filme = 1;
